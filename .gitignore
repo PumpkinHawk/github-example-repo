@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/osx,jekyll
+# Created by https://www.gitignore.io/api/osx,jekyll,git
 
 ### OSX ###
 *.DS_Store
@@ -30,3 +30,7 @@ Temporary Items
 _site/
 .sass-cache/
 .jekyll-metadata
+
+
+### Git ###
+*.orig
