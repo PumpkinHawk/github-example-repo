@@ -13,6 +13,7 @@ this experience.
 Below are a list of *helpful* links that you can refer to for said example.
 
 - <https://www.gitignore.io/> A web tool to help with generating useful gitignore files
-- [DevTips YoutTube Channel](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) to dive in deeper
+
+Want to learn more about using GIT?  <a href="https://iblogcode.com/2019/05/09/next-level-git/" target="_blank">Click Here</a>.
 
 If you have any questions or helpful tips message me.
